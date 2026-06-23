@@ -2,5 +2,5 @@
   <img src="https://komarev.com/ghpvc/?username=doomed-yaoi&color=lightgrey&style=flat-square&label=witnesses&abbreviated=true" />
   <br>
   <br>
-  <a href="https://rentry.co/zres">rentry</a> . <a href="https://rentry.co/pony-town--info">ponytown stuff</a> . <a href="https://guns.lol/loserboyfriend">guns.lol</a> . <a href="https://spacehey.com/loserboyfriend">spacehey !!</a>
+  <a href="https://charmedvex.atabook.org/">atabook</a> . <a href="https://rentry.co/zres">rentry</a> . <a href="https://rentry.co/pony-town--info">ponytown stuff</a> . <a href="https://guns.lol/loserboyfriend">guns.lol</a> . <a href="https://spacehey.com/loserboyfriend">spacehey !!</a>
 </p>
